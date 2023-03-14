@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
  -->
  <div align="center">
- <img src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I'm%20Harshal!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-<!--   <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Kumkum🌻</h1> -->
+ 
+  <h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Kumkum🌻</h1>
 </div>
 
 <p align='center' style='margin: 16px 4px 8px;'>
