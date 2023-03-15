@@ -26,16 +26,9 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Dedicated and passionate full-stack web developer with hands-on experience building websites with MERN stack. Curious to learn about emerging web technologies and looking for an opportunity to contribute significantly to an organization through dedicated effort.</h1>
 
-<!-- - 👋 Hi, I’m @harshal-kitukale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
 
-<!---
-harshal-kitukale/harshal-kitukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 <!-- ******************************************************************************** -->
 <!-- Portfolio -->
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
@@ -43,8 +36,7 @@ You can click the Preview link to take a look at your changes.
  <br/>
  <br/>
  <br/>
-<!--    [link](https://harshal-kitukale.github.io) -->
-<!--    <a href="https://harshal-kitukale.github.io/">link</a> -->
+
  <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> To Know More About Me :- <a href= "https://kumkumdutta.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
  </h2>
 
@@ -78,19 +70,19 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
    <div align="center">
-       <img  src="https://github-readme-stats.vercel.app/api?username=harshal-kitukale&theme=react&hide_border=true&include_all_commits=true&count_private=true"
+       <img  src="https://github-readme-stats.vercel.app/api?username=kumkumdutta&theme=react&hide_border=true&include_all_commits=true&count_private=true"
           alt="stats" />
    </div>
     <br/>
   
    <div align="center">
-       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-kitukale&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
+       <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumdutta&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
           alt="streak" />
     </div>
     
   <br/>
   <div align="center">
-       <img style= width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-kitukale&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+       <img style= width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkumdutta&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
           alt="lan" />
     </div> 
 <!-- ************************************************************************ -->
@@ -99,14 +91,14 @@ You can click the Preview link to take a look at your changes.
 <!-- activity graph -->
 <div align="center">
     <h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshal-kitukale&theme=react-dark&hide_border=true" alt="harshal Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kumkumdutta&theme=react-dark&hide_border=true" alt="kumkum Activity Graph" />
 </div>    
 <!-- ************************************************************************ -->
 <!-- Connect with me -->
 <br> 
 <div align="center">
   <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-    <a href= "https://www.linkedin.com/in/harshal-kitukale-258273185">
+    <a href= "https://www.linkedin.com/in/kumkumdutta/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="width:100px; height:30px">
     </a>
     <a href="mailto:kumkumdutta.matelli@gmail.com">
@@ -121,7 +113,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ************************************************************************ -->
 <!-- grid-snake  -->
 <div align="center">
- <img src="https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg"/>
+ <img src="https://github.com/kumkumdutta/kumkumdutta/blob/output/github-contribution-grid-snake.svg"/>
 
  </div>
 <!--  ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg) -->
