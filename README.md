@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <!-- ************************************************************************ -->
 <!-- grid-snake  -->
 <div align="center">
- <img src="https://github.com/kumkumdutta/kumkumdutta/blob/output/github-contribution-grid-snake.svg"/>
+
 
  </div>
 <!--  ![Snake animation](https://github.com/harshal-kitukale/harshal-kitukale/blob/output/github-contribution-grid-snake.svg) -->
