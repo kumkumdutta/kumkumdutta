@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <br/>
  <br/>
 
- <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> To Know More About Me :- <a href= "https://kumkumdutta.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
+ <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> To Know More About Me :- <a href= "https://kumkumdutta.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
  </h2>
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
