@@ -181,16 +181,6 @@ I've worked with:
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumkumdutta&theme=react-dark&hide_border=true" alt="Kumkum's Activity Graph" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 I'm continuously working on improving my backend engineering skills, particularly around:
